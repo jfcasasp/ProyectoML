@@ -94,6 +94,9 @@ La estructura organizacional de AutoSeguro se presenta de la siguiente manera:
   - Equipo de Innovación
 
 
+  ![Texto alternativo](https://github.com/jfcasasp/ProyectoML/blob/main/Chart.PNG?raw=true)
+
+
 
 ### Participantes Clave en el Proyecto
 
