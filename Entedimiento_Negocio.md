@@ -1,9 +1,9 @@
-# Informe de Comprensión del Negocio
+# Informe de Entendimiento del Negocio
 ## Proyecto de Provisiones de Seguros de Propiedad y Accidentes para AutoSeguro
 
 ### Introducción
 
-En este informe, exploraremos la fase de "Comprensión del Negocio" para el proyecto de provisiones de seguros de propiedad y accidentes en la empresa. Este proyecto tiene como objetivo utilizar la minería de datos para mejorar la precisión en la estimación de provisiones y en la toma de decisiones informadas en el negocio de seguros de autos.
+En este informe, exploraremos la fase de "Entendimiento del Negocio" para el proyecto de provisiones de seguros de propiedad y accidentes en la empresa. Este proyecto tiene como objetivo utilizar la minería de datos para mejorar la precisión en la estimación de provisiones y en la toma de decisiones informadas en el negocio de seguros de autos.
 
 ### Estructura Organizacional
 
@@ -151,7 +151,7 @@ Los objetivos de la empresa para este proyecto son los siguientes:
 
 ### Conclusiones
 
-La fase de Comprensión del Negocio ha proporcionado una base sólida para el proyecto de provisiones de seguros de propiedad y accidentes de la empresa. La colaboración de analistas de datos, actuarios y especialistas en seguros permitirá abordar los desafíos específicos del negocio de seguros de autos. Los objetivos claros y la identificación de fuentes de datos relevantes sentarán las bases para las etapas posteriores del proyecto.
+La fase de entendimiento del negocio ha proporcionado una base sólida para el proyecto de provisiones de seguros de propiedad y accidentes de la empresa. La colaboración de analistas de datos, actuarios y especialistas en seguros permitirá abordar los desafíos específicos del negocio de seguros de autos. Los objetivos claros y la identificación de fuentes de datos relevantes sentarán las bases para las etapas posteriores del proyecto.
 
 ---
 
